@@ -1,3 +1,5 @@
+Deep Learning with PyTorch NUSC Summer School 2025
+
 Welcome to the Deep Learning with PyTorch workshop for the NUSC Summer School 2025! This repository contains all the materials needed to get started with deep learning using PyTorch.
 Workshop Overview
 This workshop provides a comprehensive introduction to deep learning concepts and their implementation using PyTorch. Participants will learn how to design, train, and evaluate neural networks for a variety of tasks including computer vision and natural language processing.
@@ -109,7 +111,6 @@ Instructors
 Prof. Michael Chen - Deep Learning Researcher, Stanford University
 
 GitHub | LinkedIn
-
 
 
 License
